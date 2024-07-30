@@ -1,0 +1,24 @@
+/*todas as imports tem que ser colocada no inicio*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Zain:wght@200;300;400;700;800;900&display=swap');
+
+
+
+
+
+body{
+background-color: aqua;
+}    
+
+.figura{
+width: 500px;
+}    
+
+/* Classe pra configuração */
+.fonte{
+color: darkgreen;
+size: 20px;
+font-family: "Zain", sans-serif;+-
+}
+
